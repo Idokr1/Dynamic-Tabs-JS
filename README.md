@@ -1,5 +1,5 @@
 # Dynamic Tabs Project
-In this project, I created a simple website with an option to switch tabs using the event target of the container using JavaScript and CSS
+In this project I created a simple website with an option to switch tabs using the event target of the container using JavaScript and CSS
 
 ## Built With
 - HTML
